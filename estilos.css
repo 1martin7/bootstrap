@@ -1,0 +1,8 @@
+.navbar-brand{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 600;
+    font-style: oblique;
+}
+.container-fluid{
+    background-color: rgb(75, 109, 98);
+}
